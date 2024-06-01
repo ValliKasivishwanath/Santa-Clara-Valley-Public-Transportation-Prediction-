@@ -1,7 +1,7 @@
 # Santa-Clara-Valley-Public-Transportation-Prediction-
 
 
-<i>**Project Goals:**</i>
+**Project Goals:**
 
 **Objective:**
 
@@ -19,7 +19,7 @@ We have access to the ridership by route dataset and a productivity matrix from 
 
 Our datasets consist of numerical variables like boarding counts and hours of operation, and categorical variables like route identifiers.
 
-<i>**Methods:**<i>
+**Methods:**
 
 **Analytical Approaches:** 
 
